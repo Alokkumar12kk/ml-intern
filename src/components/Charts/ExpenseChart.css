@@ -1,0 +1,1 @@
+.charts{display:grid;grid-template-columns:minmax(180px,.8fr) 1.2fr;gap:20px;align-items:center}.chart-box{position:relative;height:260px;min-width:0}@media(max-width:650px){.charts{grid-template-columns:1fr}.chart-box{height:230px}}
