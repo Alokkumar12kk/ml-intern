@@ -1,1 +1,0 @@
-.list-header,.filters{display:flex;align-items:center;justify-content:space-between;gap:12px}.list-header span{color:var(--muted)}.filters{margin:14px 0}.items{display:grid;gap:12px}.empty{color:var(--muted);text-align:center;padding:24px}@media(max-width:620px){.filters{flex-direction:column}}
